@@ -23,14 +23,14 @@ facebook:
 instagram:
   name: Instagram
   icon: icon-instagram
-  prepend: 'https://instagram.com/'
+  prepend: 'https://www.instagram.com/rt_sp_up_8/'
 whatsapp:
   name: WhatsApp
   icon: icon-whatsapp
 spotify:
   name: Spotify
   icon: icon-spotify
-  prepend: "https://play.spotify.com/"
+  prepend: "https://open.spotify.com/user/31k3vgtezuu23yimh6iesc67dni4"
 telegram:
   name: Telegram
   icon: icon-telegram
@@ -112,7 +112,7 @@ ondrive:
 github:
   name: GitHub
   icon: icon-github
-  prepend: "https://github.com/"
+  prepend: "https://github.com/Aarati-123/"
 npm:
   name: npm
   icon: icon-npm
